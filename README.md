@@ -1,6 +1,6 @@
 # Calopoly
-Monopoly : Berkeley Edition
-Features 
+Monopoly : Berkeley Edition                                                                                                   
+Features                                                                                                                       
 To be added : 
 For deciding who goes first, everyone picks a number between 1 and 100, Dirks will pick a number and whoever's guess is closest goes first. In the case of a tie, the first person to guess goes first. 
 Game Class
